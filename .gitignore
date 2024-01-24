@@ -1,0 +1,4 @@
+main
+*.d
+*.o
+.DS_Store
